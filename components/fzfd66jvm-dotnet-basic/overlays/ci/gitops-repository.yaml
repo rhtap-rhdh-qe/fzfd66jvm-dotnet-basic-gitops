@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fzfd66jvm-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fzfd66jvm-dotnet-basic-gitops
